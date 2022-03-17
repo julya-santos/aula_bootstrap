@@ -8,6 +8,6 @@
 ### Links Úteis :link:
 
 - [Download do Bootstrap](https://getbootstrap.com/)
-- [Componente Utilizado no projeto](https://getbootstrap.com/docs/5.1/components/navbar/)
+- [Componente Utilizado no Projeto](https://getbootstrap.com/docs/5.1/components/navbar/)
 
 - [Site do Bootstrap em Português](https://getbootstrap.com.br/)
